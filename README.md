@@ -10,13 +10,13 @@ Hey, I'm Gourav. Learning programming + automation with Termux on my Vivo Y15s.
 pkg install python termux-api
 termux-setup-storage
 
-**Day 1**: storage.py
+### Day 1: **storage.py**
 Checks total/used/free storage on my phone using `df` and Termux.
 
 **Run it**:
 python storage.py
 
-**Day 2**: battery.py
+###Day 2: **battery.py**
 Checks battery percentage, health, status, and temperature using `termux-battery-status`.
 Gives you warnings when charge gets low.
 
