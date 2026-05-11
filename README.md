@@ -16,7 +16,7 @@ Checks total/used/free storage on my phone using `df` and Termux.
 **Run it**:
 python storage.py
 
-###Day 2: **battery.py**
+### Day 2: **battery.py**
 Checks battery percentage, health, status, and temperature using `termux-battery-status`.
 Gives you warnings when charge gets low.
 
