@@ -22,4 +22,11 @@ Checks battery percentage, health, status, and temperature using `termux-battery
 Gives you warnings when charge gets low.
 
 **Run it**:
-python battery.py
+pyrhon battery.py
+
+###Day 3: **wifi.py**
+
+Checks WiFi connection info using termux-wifi-connectioninfo. Shows SSID, IP, signal strength in dBm, and rates connection as Amazing/good/bad/worst. Sends notification with current status.
+
+**Run it**:
+ python wifi.py
