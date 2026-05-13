@@ -30,3 +30,9 @@ Checks WiFi connection info using termux-wifi-connectioninfo. Shows SSID, IP, si
 
 **Run it**:
  python wifi.py
+
+### Day 4: **clipboard.py**
+
+Logs clipboard content with timestamps to clipboard_history.txt. Sends notification with clipboard preview. if Ignores empty clipboard. Also if you copy 'bruh' it speaks.
+
+**Run it**: python clipboard.py. To check clipboard history run 'clipboard_history.txt'.
